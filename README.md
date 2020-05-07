@@ -1,4 +1,5 @@
 # FTPwalk
 Implementation of python `os.walk` for FTP servers.
 
-this version added SFTPwalk class
+# SFTPwalk
+SFTPwalk class is added to this distribution
